@@ -11,3 +11,7 @@ Install all the dependencies in `requirements.txt`
 
 # Video
 [Demo Link](https://youtu.be/r3Tc8-9dWqQ)
+
+# Model Training
+
+[Notebook](notebooks/COVID19_XRAY.ipynb)
